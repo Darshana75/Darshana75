@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshana75&label=Profile%20views&color=0e75b6&style=flat" alt="darshana75" /> </p>
 
-- 🌱 I’m currently learning **Wordpress and React**
+- 🌱 I’m currently learning **Wordpress**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
-- 👨‍💻 All of my projects are available at [https://darshanaprabath.web.app](https://darshanaprabath.web.app)
+- 👨‍💻 All of my projects are available at [darshanaprabath.web.app](https://darshanaprabath.web.app)
 
 - 💬 Ask me about **UI/UX design principles and crafting seamless user interfaces! 🎨💻**
 
