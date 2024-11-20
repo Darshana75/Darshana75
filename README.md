@@ -5,15 +5,15 @@
 
 - 🔭 I’m currently working on [Baby Care Management System](https://github.com/Darshana75/Baby-Care-Management-System)
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Wordpress and React**
 
 - 👨‍💻 All of my projects are available at [https://darshanaprabath.web.app](https://darshanaprabath.web.app)
 
-- 💬 Ask me about **HTML, CSS, JavaScript and Figma**
+- 💬 Ask me about **Front-end development, UI/UX design and crafting seamless user interfaces! 🎨💻**
 
 - 📫 How to reach me **darshanaprabath254@gmail.com**
 
-- ⚡ Fun fact **I’m passionate about designing clean and user-friendly interfaces that make technology accessible and intuitive for everyone.**
+- ⚡ Fun fact **I see design in everything! 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
