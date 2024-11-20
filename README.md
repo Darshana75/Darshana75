@@ -3,15 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshana75&label=Profile%20views&color=0e75b6&style=flat" alt="darshana75" /> </p>
 
-- 🔭 I’m currently working on [Baby Care Management System](https://github.com/Darshana75/Baby-Care-Management-System)
-
 - 🌱 I’m currently learning **Wordpress and React**
+
+- 👯 I’m looking to collaborate on **Web Development Projects**
 
 - 👨‍💻 All of my projects are available at [https://darshanaprabath.web.app](https://darshanaprabath.web.app)
 
-- 💬 Ask me about **Front-end development, UI/UX design and crafting seamless user interfaces! 🎨💻**
+- 💬 Ask me about **UI/UX design principles and crafting seamless user interfaces! 🎨💻**
 
 - 📫 How to reach me **darshanaprabath254@gmail.com**
+
+- 📄 Know about my experiences [Darshana Prabath.pdf](https://github.com/user-attachments/files/17828826/Darshana.Prabath.pdf)
 
 - ⚡ Fun fact **I see design in everything! 🎨**
 
@@ -31,4 +33,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=darshana75&show_icons=true&locale=en" alt="darshana75" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darshana75&" alt="darshana75" /></p>
-
