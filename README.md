@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Darshana Prabath</h1>
-<h4 align="center">I'm a Computer Science Undergraduate with a passion for web development, front-end development and UI/UX design. I have hands-on experience in designing and developing user interfaces, as well as automating solutions for various systems. I enjoy tackling challenges, learning new technologies, and continuously improving my skills in the tech space.</h4>
+<h4 align="center">I'm a Computer Science graduate with a passion for web development, front-end development and UI/UX design. I have hands-on experience in designing and developing user interfaces, as well as automating solutions for various systems. I enjoy tackling challenges, learning new technologies, and continuously improving my skills in the tech space.</h4>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshana75&label=Profile%20views&color=0e75b6&style=flat" alt="darshana75" /> </p>
 
