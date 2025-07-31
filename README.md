@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darshana75&label=Profile%20views&color=0e75b6&style=flat" alt="darshana75" /> </p>
 
-- 🌱 I’m currently learning **Wordpress**
+- 🌱 I’m currently learning **Wordpress** and **React Native**
 
 - 👯 I’m looking to collaborate on **Web Development Projects**
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **darshanaprabath254@gmail.com**
 
-- 📄 Know about my experiences [Darshana CV](https://github.com/user-attachments/files/17828826/Darshana.Prabath.pdf) 
+- 📄 Know about my experiences [Darshana CV](https://github.com/user-attachments/files/21535860/Darshana.Prabath_CV.pdf)
 
 - ⚡ Fun fact **I see design in everything! 🎨**
 
