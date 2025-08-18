@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [darshanaprabath.vercel.app](https://darshanaprabath.vercel.app) 
 
-- 💬 Ask me about **building intuitive web applications, designing user-friendly interfaces, and bringing ideas to life with clean code & creative design! 🚀🎨💻**
+- 💬 Ask me about **building intuitive web applications, designing user-friendly interfaces and bringing ideas to life with clean code & creative design! 🚀🎨💻**
 
 - 📫 How to reach me **darshanaprabath254@gmail.com**
 
@@ -44,11 +44,7 @@
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="25" /></a>
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="25" /></a>
-<a href="https://vercel.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vercel.svg" alt="Vercel" height="25" /></a>
-<a href="https://www.netlify.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/netlify.png" alt="Netlify" height="25" /></a>
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>
-<a href="https://www.canva.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/canva.png" alt="Canva" height="25" /></a>
 <a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>
  
 </div>  
