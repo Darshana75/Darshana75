@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **darshanaprabath254@gmail.com**
 
-- 📄 Know about my experiences [Darshana Prabath CV.pdf](https://github.com/user-attachments/files/21834623/Darshana.Prabath.SE.CV.pdf)
+- 📄 Know about my experiences [Darshana Prabath CV](https://github.com/user-attachments/files/21841073/Darshana.Prabath.SE.CV.pdf)
  
 
 - ⚡ Fun fact **I see design in everything! 🎨**
